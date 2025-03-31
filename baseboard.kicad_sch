@@ -4798,6 +4798,12 @@
 		(uuid "07d375f3-a9de-49e4-8a27-6c279ffc3ca5")
 	)
 	(junction
+		(at 123.19 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "087ee891-878d-48c3-9748-51724935056a")
+	)
+	(junction
 		(at 190.5 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4826,6 +4832,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23ba1222-829f-424a-8092-6465623fbcc5")
+	)
+	(junction
+		(at 39.37 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2437c2e5-4e50-4616-9afb-36ffee6aeccb")
 	)
 	(junction
 		(at 125.73 135.89)
@@ -4862,6 +4874,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bda50f4-4126-4c2e-a826-980972259c5b")
+	)
+	(junction
+		(at 72.39 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "660e7db0-f542-45bc-bbcc-bba072bfc89d")
 	)
 	(junction
 		(at 44.45 67.31)
@@ -4928,6 +4946,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80863053-f5f9-4565-ace8-ea79a198eaec")
+	)
+	(junction
+		(at 240.03 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "919add44-ca3e-4bf6-a36d-04172bf1c5ea")
 	)
 	(junction
 		(at 120.65 135.89)
@@ -5062,6 +5086,16 @@
 			(type default)
 		)
 		(uuid "0400a453-5d03-4d6a-8d74-e34e05af9377")
+	)
+	(wire
+		(pts
+			(xy 111.76 85.09) (xy 111.76 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "040f949f-5894-4ad7-b8a9-366801d5d3d3")
 	)
 	(wire
 		(pts
@@ -5225,6 +5259,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 26.67) (xy 45.72 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cd389d6-c683-4c5b-bb90-ea83e7e2b223")
+	)
+	(wire
+		(pts
 			(xy 250.19 62.23) (xy 250.19 68.58)
 		)
 		(stroke
@@ -5232,6 +5276,16 @@
 			(type default)
 		)
 		(uuid "1e327173-a883-404f-bbe2-cfc5636a6be8")
+	)
+	(wire
+		(pts
+			(xy 69.85 85.09) (xy 72.39 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ea7b3d8-5be7-4fa0-a251-ea3358e14deb")
 	)
 	(wire
 		(pts
@@ -5542,6 +5596,16 @@
 			(type default)
 		)
 		(uuid "446553b3-4b62-4252-804b-7cc3a63151a8")
+	)
+	(wire
+		(pts
+			(xy 168.91 83.82) (xy 173.99 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44998be7-fe28-4088-938f-df03c44e72ff")
 	)
 	(wire
 		(pts
@@ -5865,7 +5929,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 142.24) (xy 187.96 143.51)
+			(xy 213.36 144.78) (xy 213.36 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5882,6 +5946,16 @@
 			(type default)
 		)
 		(uuid "7a07c5a1-ab34-4220-b82c-6b6a9c4deae1")
+	)
+	(wire
+		(pts
+			(xy 39.37 25.4) (xy 39.37 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a457abf-4d3f-4a5f-890e-6e86422f85ba")
 	)
 	(wire
 		(pts
@@ -5902,6 +5976,16 @@
 			(type default)
 		)
 		(uuid "7c4de69c-6a76-4afd-bc6c-3aeb3abc405a")
+	)
+	(wire
+		(pts
+			(xy 120.65 85.09) (xy 123.19 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cb95f1c-222e-4cc9-b383-844c6fdb8140")
 	)
 	(wire
 		(pts
@@ -6285,6 +6369,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 64.77) (xy 236.22 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ef72fa7-8c6c-4907-a0a2-0fe70c8bd466")
+	)
+	(wire
+		(pts
 			(xy 25.4 172.72) (xy 26.67 172.72)
 		)
 		(stroke
@@ -6302,6 +6396,16 @@
 			(type default)
 		)
 		(uuid "9f1da5df-7e6b-4719-9e62-ce5eca0b5a0d")
+	)
+	(wire
+		(pts
+			(xy 60.96 85.09) (xy 60.96 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fb8143b-164d-449c-b91f-efead833e3a7")
 	)
 	(wire
 		(pts
@@ -6375,6 +6479,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 64.77) (xy 240.03 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a609d58c-4f8a-4cc3-9958-7e2c7964c4b1")
+	)
+	(wire
+		(pts
 			(xy 58.42 29.21) (xy 67.31 29.21)
 		)
 		(stroke
@@ -6405,7 +6519,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 64.77) (xy 236.22 64.77)
+			(xy 252.73 64.77) (xy 240.03 64.77)
 		)
 		(stroke
 			(width 0)
@@ -6555,6 +6669,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 83.82) (xy 158.75 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "badd3332-ab5d-44cb-ae1e-601523179c75")
+	)
+	(wire
+		(pts
 			(xy 110.49 25.4) (xy 109.22 25.4)
 		)
 		(stroke
@@ -6575,6 +6699,26 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 85.09) (xy 111.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4f57ba-0131-4053-b492-577a9e0c88f3")
+	)
+	(wire
+		(pts
+			(xy 30.48 17.78) (xy 39.37 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc6f77f0-9df0-42d2-8a2a-8456e51305f7")
+	)
+	(wire
+		(pts
 			(xy 165.1 99.06) (xy 166.37 99.06)
 		)
 		(stroke
@@ -6585,7 +6729,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 134.62) (xy 187.96 137.16)
+			(xy 213.36 137.16) (xy 213.36 139.7)
 		)
 		(stroke
 			(width 0)
@@ -6632,6 +6776,16 @@
 			(type default)
 		)
 		(uuid "c4926d7b-f7c4-4eb4-9d0e-a5d2b2cf9092")
+	)
+	(wire
+		(pts
+			(xy 62.23 85.09) (xy 60.96 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4a73f09-73e0-4268-a8fa-1cca0f89113b")
 	)
 	(wire
 		(pts
@@ -6935,7 +7089,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 151.13) (xy 187.96 152.4)
+			(xy 213.36 153.67) (xy 213.36 154.94)
 		)
 		(stroke
 			(width 0)
@@ -6985,6 +7139,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 83.82) (xy 158.75 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f763f3af-528b-4a90-adc1-6b1504e5bd7f")
+	)
+	(wire
+		(pts
 			(xy 191.77 35.56) (xy 176.53 35.56)
 		)
 		(stroke
@@ -7015,7 +7179,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 26.67) (xy 45.72 26.67)
+			(xy 34.29 26.67) (xy 39.37 26.67)
 		)
 		(stroke
 			(width 0)
@@ -8354,7 +8518,7 @@
 		(dnp no)
 		(uuid "0ccad73c-5baf-4a5e-a69f-d655a4cf7824")
 		(property "Reference" "R6"
-			(at 118.364 88.138 0)
+			(at 124.968 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8363,7 +8527,7 @@
 			)
 		)
 		(property "Value" "4.7K"
-			(at 117.602 89.916 0)
+			(at 124.714 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8408,6 +8572,75 @@
 			(project "Main_H743VI"
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:C")
+		(at 116.84 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "119c85b8-64d8-47e5-8eda-dfa582757f2b")
+		(property "Reference" "C9"
+			(at 115.57 81.788 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "104"
+			(at 114.808 88.392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 113.03 86.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 116.84 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c41b58e5-37b5-440f-8020-039a79696358")
+		)
+		(pin "2"
+			(uuid "35129199-fc7a-4d5f-9440-eefa2837d32a")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -9530,6 +9763,71 @@
 		)
 	)
 	(symbol
+		(lib_id "LM2676S-3.3_NOPB:GND")
+		(at 111.76 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3bb872e1-99ea-4ebb-9c09-6be2619fa23e")
+		(property "Reference" "#PWR059"
+			(at 111.76 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 111.506 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 111.76 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20bee363-b31f-44c4-b889-06603fc8fabe")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 173.99 73.66 0)
 		(unit 1)
@@ -9798,7 +10096,7 @@
 	)
 	(symbol
 		(lib_id "LM2676S-3.3_NOPB:GND")
-		(at 187.96 152.4 0)
+		(at 213.36 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9806,7 +10104,7 @@
 		(dnp no)
 		(uuid "3f50a051-3a5c-44da-9761-3a49a9e79159")
 		(property "Reference" "#PWR049"
-			(at 187.96 158.75 0)
+			(at 213.36 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9815,7 +10113,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.706 156.21 0)
+			(at 213.106 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9823,7 +10121,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 152.4 0)
+			(at 213.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9832,7 +10130,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 152.4 0)
+			(at 213.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9841,7 +10139,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 152.4 0)
+			(at 213.36 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,7 +10307,7 @@
 		(dnp no)
 		(uuid "4a6ba6a5-df8f-41e8-a911-4e8aa1e6c3c0")
 		(property "Reference" "R2"
-			(at 67.564 88.138 0)
+			(at 74.168 87.884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10018,7 +10316,7 @@
 			)
 		)
 		(property "Value" "4.7K"
-			(at 66.802 89.916 0)
+			(at 73.66 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11080,6 +11378,71 @@
 		)
 	)
 	(symbol
+		(lib_id "LM2676S-3.3_NOPB:GND")
+		(at 158.75 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ac205b8-c30b-4339-84ac-ce886e392d17")
+		(property "Reference" "#PWR057"
+			(at 158.75 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.496 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 158.75 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ac0f977-5131-4e40-90be-fa653bd5bf4a")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 52.07 134.62 0)
 		(unit 1)
@@ -11388,7 +11751,7 @@
 	)
 	(symbol
 		(lib_id "LM2676S-3.3_NOPB:+3.3V")
-		(at 187.96 134.62 0)
+		(at 213.36 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11396,7 +11759,7 @@
 		(dnp no)
 		(uuid "84111ffe-0746-4d76-81a3-3a1d2a2334be")
 		(property "Reference" "#PWR048"
-			(at 187.96 138.43 0)
+			(at 213.36 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11405,7 +11768,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 187.96 130.556 0)
+			(at 213.36 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11413,7 +11776,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 134.62 0)
+			(at 213.36 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11422,7 +11785,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 134.62 0)
+			(at 213.36 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11431,7 +11794,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 187.96 134.62 0)
+			(at 213.36 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11922,7 +12285,7 @@
 	)
 	(symbol
 		(lib_id "LM2676S-3.3_NOPB:LED")
-		(at 187.96 147.32 90)
+		(at 213.36 149.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11931,7 +12294,7 @@
 		(fields_autoplaced yes)
 		(uuid "96b9e267-3530-4a2f-a3c8-e4780a7ddd28")
 		(property "Reference" "D5"
-			(at 191.77 147.6374 90)
+			(at 217.17 150.1774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11940,7 +12303,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 191.77 150.1774 90)
+			(at 217.17 152.7174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11949,7 +12312,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 187.96 147.32 0)
+			(at 213.36 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11958,7 +12321,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 147.32 0)
+			(at 213.36 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11967,7 +12330,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 187.96 147.32 0)
+			(at 213.36 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,7 +12339,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 187.96 147.32 0)
+			(at 213.36 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11994,6 +12357,71 @@
 			(project ""
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:GND")
+		(at 30.48 17.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "96f1d61e-09d1-41ee-89cd-b4af54058f67")
+		(property "Reference" "#PWR061"
+			(at 30.48 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 30.226 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 30.48 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "478761d4-55de-4bad-b717-2a2d9ed3cbf7")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -12356,6 +12784,75 @@
 			(project ""
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:C")
+		(at 39.37 21.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f2bac2c-3241-444c-863c-f9a450a0862b")
+		(property "Reference" "C11"
+			(at 32.512 19.558 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "104"
+			(at 32.766 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 40.3352 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 39.37 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e39036a9-5bb8-46b2-bfc8-ddc56026e198")
+		)
+		(pin "2"
+			(uuid "c8ae37a4-8aea-479f-ab5d-b95af685f9f2")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -12839,16 +13336,16 @@
 		)
 	)
 	(symbol
-		(lib_id "LM2676S-3.3_NOPB:R_Small")
-		(at 187.96 139.7 0)
+		(lib_id "LM2676S-3.3_NOPB:C")
+		(at 165.1 83.82 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b98b9ee1-9f09-4d5b-b983-8920fd3ba3c1")
-		(property "Reference" "R8"
-			(at 183.134 138.938 0)
+		(uuid "b2f35a72-ef13-41dd-93a6-061b6ffa89a6")
+		(property "Reference" "C7"
+			(at 163.83 80.518 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12856,8 +13353,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330"
-			(at 183.134 140.97 0)
+		(property "Value" "104"
+			(at 163.322 87.122 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12865,8 +13362,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 187.96 139.7 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 161.29 84.7852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12875,7 +13372,76 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 187.96 139.7 0)
+			(at 165.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 165.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ce6af4e-3d17-4563-8069-8448dafcc581")
+		)
+		(pin "2"
+			(uuid "e9899b53-51c1-4550-89ab-abb958c4869b")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:R_Small")
+		(at 213.36 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b98b9ee1-9f09-4d5b-b983-8920fd3ba3c1")
+		(property "Reference" "R8"
+			(at 208.534 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "330"
+			(at 208.534 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 213.36 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.36 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12884,7 +13450,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 187.96 139.7 0)
+			(at 213.36 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12902,6 +13468,71 @@
 			(project "Main_H743VI"
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:GND")
+		(at 240.03 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bdbf8b20-a860-49ce-be78-82260371814c")
+		(property "Reference" "#PWR060"
+			(at 240.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 239.776 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 240.03 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef6b1ada-9ec1-430b-afae-81083d6252e8")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -13674,6 +14305,71 @@
 		)
 	)
 	(symbol
+		(lib_id "LM2676S-3.3_NOPB:GND")
+		(at 60.96 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e64e3e2f-b8d1-44f2-b799-87a43cc95c1c")
+		(property "Reference" "#PWR058"
+			(at 60.96 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.706 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 60.96 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c74f6ec8-0e5f-4fbe-b57a-a6b7999849a7")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LM2676S-3.3_NOPB:R_Small")
 		(at 189.23 29.21 0)
 		(unit 1)
@@ -13867,6 +14563,75 @@
 			(project ""
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:C")
+		(at 240.03 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f5daf6a6-f4a5-442f-b23a-517ef154d658")
+		(property "Reference" "C10"
+			(at 240.792 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "106"
+			(at 240.792 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 240.9952 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 240.03 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 240.03 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca5ba6a3-27bd-49a1-996e-6a66d0ef90df")
+		)
+		(pin "2"
+			(uuid "c866d4b7-6bb8-4418-8cc8-f4f14718fe5d")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -14072,6 +14837,75 @@
 			(project "Main_H743VI"
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:C")
+		(at 66.04 85.09 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fe7233f5-f78d-4956-914b-08d416d718ea")
+		(property "Reference" "C8"
+			(at 64.77 81.788 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "104"
+			(at 64.008 88.392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 62.23 86.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01d09aba-f835-4dc5-8dd9-b42919bb2737")
+		)
+		(pin "2"
+			(uuid "8b6448d5-51f4-4391-8fae-50414f901f20")
+		)
+		(instances
+			(project "EggClassifier"
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "C8")
 					(unit 1)
 				)
 			)
