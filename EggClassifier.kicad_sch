@@ -48,7 +48,7 @@
 		)
 	)
 	(sheet
-		(at 69.85 50.8)
+		(at 68.58 50.8)
 		(size 45.72 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -62,9 +62,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a876cc3c-46f3-4b62-bd95-490c4538aae6")
-		(property "Sheetname" "MCU_HEADERS"
-			(at 69.85 50.0884 0)
+		(uuid "fdbe9d4c-6ebe-4e90-8f03-e4455b1d326a")
+		(property "Sheetname" "DevEBox"
+			(at 68.58 50.0884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,8 +72,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "mcuheaders.kicad_sch"
-			(at 69.85 93.2946 0)
+		(property "Sheetfile" "devebox.kicad_sch"
+			(at 68.58 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,7 +84,7 @@
 		(instances
 			(project "EggClassifier"
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43"
-					(page "2")
+					(page "4")
 				)
 			)
 		)

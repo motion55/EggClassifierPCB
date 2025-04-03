@@ -699,12 +699,12 @@
       "Root"
     ],
     [
-      "a876cc3c-46f3-4b62-bd95-490c4538aae6",
-      "MCU_HEADERS"
-    ],
-    [
       "16aff487-3924-4be3-b176-d1fab0e3868e",
       "BASEBOARD"
+    ],
+    [
+      "fdbe9d4c-6ebe-4e90-8f03-e4455b1d326a",
+      "DevEBox"
     ]
   ],
   "text_variables": {}
