@@ -6063,16 +6063,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 124.46) (xy 146.05 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d2d1426-6540-4bca-90c3-3e50c9e11946")
-	)
-	(wire
-		(pts
 			(xy 96.52 38.1) (xy 109.22 38.1)
 		)
 		(stroke
@@ -6583,6 +6573,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 161.29) (xy 171.45 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc3545b-2744-448d-a789-b0ae572d5a5c")
+	)
+	(wire
+		(pts
 			(xy 45.72 59.69) (xy 44.45 59.69)
 		)
 		(stroke
@@ -6640,6 +6640,16 @@
 			(type default)
 		)
 		(uuid "cf35a716-7fe9-4c8f-b214-1413c485725b")
+	)
+	(wire
+		(pts
+			(xy 146.05 123.19) (xy 146.05 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0d2e286-75dc-4165-bbaf-2abca4878f76")
 	)
 	(wire
 		(pts
@@ -8203,6 +8213,73 @@
 		)
 	)
 	(symbol
+		(lib_id "LM2676S-3.3_NOPB:PWR_FLAG")
+		(at 171.45 161.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bbb7a09-9196-4c12-bff2-49b8c1511791")
+		(property "Reference" "#FLG01"
+			(at 173.355 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 175.26 161.2899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 171.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 171.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 171.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc2f290e-8d2d-443e-be6b-6b0f73b563a5")
+		)
+		(instances
+			(project ""
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_JLCPCB-Manufacturing:Mounting Hole, 3mm, Via Stiched")
 		(at 22.86 176.53 0)
 		(mirror y)
@@ -9316,7 +9393,7 @@
 	)
 	(symbol
 		(lib_id "LM2676S-3.3_NOPB:+5V")
-		(at 146.05 124.46 0)
+		(at 146.05 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9325,7 +9402,7 @@
 		(fields_autoplaced yes)
 		(uuid "38f52bd5-692d-4cb3-bc5c-8c2d48660786")
 		(property "Reference" "#PWR039"
-			(at 146.05 128.27 0)
+			(at 146.05 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9334,7 +9411,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 146.05 119.38 0)
+			(at 146.05 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9342,7 +9419,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9351,7 +9428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9360,7 +9437,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11926,7 +12003,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 82.55 122.2248 0)
 			(effects
 				(font
