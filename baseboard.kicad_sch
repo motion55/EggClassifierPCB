@@ -4351,7 +4351,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PCM_Diode_Schottky_AKL:SS56BF"
+		(symbol "Library:SS56BF"
 			(pin_numbers
 				(hide yes)
 			)
@@ -8240,7 +8240,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PCM_Diode_Schottky_AKL:SS56BF")
+		(lib_id "Library:SS56BF")
 		(at 100.33 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
