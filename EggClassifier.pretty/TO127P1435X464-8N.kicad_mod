@@ -1,0 +1,491 @@
+(footprint "TO127P1435X464-8N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -6.604 0 270)
+		(layer "F.SilkS")
+		(uuid "05e2f46a-a9dc-45c5-b994-fb9af607ba68")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LM2676S-5"
+		(at 0 9.144 180)
+		(layer "F.Fab")
+		(uuid "1ba76310-c819-47da-8e42-ecab52727587")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5f438c5-35e2-4e2c-9145-7b95b485d289")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10b9c0b7-ba50-44c9-922f-eca4e0db1953")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "004966fc-b716-4bfc-ae5d-631db3589f0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "SIMPLE SWITCHER® 8V to 40V, 3A Low Component Count Step-Down Regulator"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb65f392-0585-4981-a5b2-7f35cf01faa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "TO-263-7 Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5571beb5-aee9-47ed-b3e9-39206c789a79")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c290b86-2df3-423e-a05d-cb98396c143b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/LM2676S-3.3/NOPB/Texas+Instruments/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e45ad820-7643-435c-8e02-dd34aab63da0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "LM2676S-3.3/NOPB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74c6d446-0b32-4f33-9e26-898bf3de7188")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2cd1d90b-f116-492d-b0d6-234d8c94d7c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/LM2676S-3.3/NOPB/Texas+Instruments/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12a21315-da82-4d2d-b65e-6280bb3c5c3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.08 -0.3)
+		(end -5.08 2.575)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5e32728a-604d-4695-a97f-41478f908e25")
+	)
+	(fp_line
+		(start -5.08 2.575)
+		(end 5.08 2.575)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ed57286e-bb14-4387-ad61-ca8dcbc948ab")
+	)
+	(fp_line
+		(start 5.08 2.575)
+		(end 5.08 -0.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "52edcbcb-695d-4908-833e-7a25dff86945")
+	)
+	(fp_circle
+		(center -5 6.3)
+		(end -4.9 6.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3ceefc6a-a2fe-4835-b52e-24a1c9254242")
+	)
+	(fp_poly
+		(pts
+			(xy -5.03 -6.825) (xy -3.77 -6.825) (xy -3.77 -4.915) (xy -5.03 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "4cf6d475-493a-48a9-bc88-03d9af5ffbe5")
+	)
+	(fp_poly
+		(pts
+			(xy -5.03 -3.405) (xy -3.77 -3.405) (xy -3.77 -1.495) (xy -5.03 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "6d899f34-910c-4547-b8bd-4adcdefdc510")
+	)
+	(fp_poly
+		(pts
+			(xy -3.27 -6.825) (xy -2.01 -6.825) (xy -2.01 -4.915) (xy -3.27 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "eb4cf445-0d03-407a-b565-5a66bc3963c6")
+	)
+	(fp_poly
+		(pts
+			(xy -3.27 -3.405) (xy -2.01 -3.405) (xy -2.01 -1.495) (xy -3.27 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "3e825ccd-0664-407e-97bd-80e88b879962")
+	)
+	(fp_poly
+		(pts
+			(xy -1.51 -6.825) (xy -0.25 -6.825) (xy -0.25 -4.915) (xy -1.51 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "de3b7491-eba5-4771-92fe-f59c3b356bab")
+	)
+	(fp_poly
+		(pts
+			(xy -1.51 -3.405) (xy -0.25 -3.405) (xy -0.25 -1.495) (xy -1.51 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "bcc1155c-6a64-49b6-a662-341c7091d86f")
+	)
+	(fp_poly
+		(pts
+			(xy 0.25 -6.825) (xy 1.51 -6.825) (xy 1.51 -4.915) (xy 0.25 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "71796b83-dcda-4692-94a9-588df4c719d5")
+	)
+	(fp_poly
+		(pts
+			(xy 0.25 -3.405) (xy 1.51 -3.405) (xy 1.51 -1.495) (xy 0.25 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "8bd5aaa4-1c90-4736-825b-809f29615083")
+	)
+	(fp_poly
+		(pts
+			(xy 2.01 -6.825) (xy 3.27 -6.825) (xy 3.27 -4.915) (xy 2.01 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "b73cb23d-b41f-4f4d-9d14-9ea0642a858a")
+	)
+	(fp_poly
+		(pts
+			(xy 2.01 -3.405) (xy 3.27 -3.405) (xy 3.27 -1.495) (xy 2.01 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "fb94de32-5a94-4605-ac11-11aa1760de2d")
+	)
+	(fp_poly
+		(pts
+			(xy 3.77 -6.825) (xy 5.03 -6.825) (xy 5.03 -4.915) (xy 3.77 -4.915)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "b9a122cc-92b0-4066-b319-71701ad9fe38")
+	)
+	(fp_poly
+		(pts
+			(xy 3.77 -3.405) (xy 5.03 -3.405) (xy 5.03 -1.495) (xy 3.77 -1.495)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "5bf262a1-6bb4-494b-ac97-3c0513988321")
+	)
+	(fp_line
+		(start -5.54 -7.84)
+		(end 5.54 -7.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9699fb6d-0178-4804-ac71-67a503981e54")
+	)
+	(fp_line
+		(start -5.54 7.84)
+		(end -5.54 -7.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "759a6a48-c66e-4199-ae55-d17e35bc7acb")
+	)
+	(fp_line
+		(start 5.54 -7.84)
+		(end 5.54 7.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "96367936-a081-46ae-8f72-d25fe06cbd25")
+	)
+	(fp_line
+		(start 5.54 7.84)
+		(end -5.54 7.84)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "297f5bc1-c271-44a7-ac9f-466931470874")
+	)
+	(fp_line
+		(start -5.08 -6.065)
+		(end 5.08 -6.065)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e4347533-1630-4f81-9766-cbd92d6af58d")
+	)
+	(fp_line
+		(start -5.08 2.575)
+		(end -5.08 -6.065)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "40143be1-0c98-45aa-b1dc-c0c83c2dc601")
+	)
+	(fp_line
+		(start -5.08 2.575)
+		(end 5.08 2.575)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b10639d-0bf8-412a-8d1f-4aae84986761")
+	)
+	(fp_line
+		(start 5.08 -6.065)
+		(end 5.08 2.575)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c25489a-db48-4c81-bb6e-ccb7ea91cea3")
+	)
+	(fp_circle
+		(center -5 6.3)
+		(end -4.9 6.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "29a71ad4-130b-4cf8-baf2-82d77b348450")
+	)
+	(pad "1" smd rect
+		(at -3.81 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "9b437189-142a-4121-8c69-4b4373463297")
+	)
+	(pad "2" smd rect
+		(at -2.54 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "ed394cab-a117-489d-9b22-ac64959ac3a9")
+	)
+	(pad "3" smd rect
+		(at -1.27 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "af8090d4-2066-41e5-8220-5c6fad04cbc0")
+	)
+	(pad "4" smd rect
+		(at 0 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "6ac08905-1c06-4734-aa20-2094300d6b7e")
+	)
+	(pad "5" smd rect
+		(at 1.27 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "deac4812-a808-43a1-987c-e38215bbd069")
+	)
+	(pad "6" smd rect
+		(at 2.54 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "87660b6e-4782-4cff-a4a1-17c86812e5df")
+	)
+	(pad "7" smd rect
+		(at 3.81 6.19)
+		(size 0.89 2.79)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "798972c7-acee-4498-96e2-06c6d1e7556d")
+	)
+	(pad "8" smd rect
+		(at 0 -4.16)
+		(size 10.58 6.84)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "b0eaa02b-a95b-47ff-9d21-55eebb6ecb2b")
+	)
+	(embedded_fonts no)
+)

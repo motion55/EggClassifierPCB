@@ -4564,107 +4564,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "LM2676S-3.3_NOPB:PWR_FLAG"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#FLG"
-				(at 0 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "PWR_FLAG"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Special symbol for telling ERC where power comes from"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "flag power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "PWR_FLAG_0_0"
-				(pin power_out line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "PWR_FLAG_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 99.06 173.99)
@@ -4785,12 +4684,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c57f28d6-3d30-4543-9218-bf9391d9116d")
-	)
-	(junction
-		(at 173.99 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc6753f8-3109-4f3d-85c0-a531c34eb1b4")
 	)
 	(junction
 		(at 72.39 38.1)
@@ -5240,16 +5133,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 82.55) (xy 173.99 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27b6bd19-8d33-4f37-82b6-2f5ff98ad543")
-	)
-	(wire
-		(pts
 			(xy 193.04 34.29) (xy 193.04 35.56)
 		)
 		(stroke
@@ -5267,16 +5150,6 @@
 			(type default)
 		)
 		(uuid "2a7e87cf-5ad6-4e6f-8747-a33a09295a1d")
-	)
-	(wire
-		(pts
-			(xy 173.99 83.82) (xy 175.26 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a94b1c6-0d5a-4fd9-9ae7-dfa7c07a591e")
 	)
 	(wire
 		(pts
@@ -5397,6 +5270,16 @@
 			(type default)
 		)
 		(uuid "39d513d9-2efb-40e7-97a6-af365547dd63")
+	)
+	(wire
+		(pts
+			(xy 173.99 82.55) (xy 173.99 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a6308e5-9e3f-4d56-be17-53d658f14327")
 	)
 	(wire
 		(pts
@@ -5917,16 +5800,6 @@
 			(type default)
 		)
 		(uuid "8c98d3c5-ed94-4a86-8e55-ec592ba62e65")
-	)
-	(wire
-		(pts
-			(xy 173.99 83.82) (xy 173.99 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eee4444-4e42-4d0c-992c-0e7e9e78e1f5")
 	)
 	(wire
 		(pts
@@ -8086,8 +7959,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 148.844 78.74 0)
+		(property "Value" "4.7K"
+			(at 148.082 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8290,8 +8163,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330"
-			(at 166.624 128.27 0)
+		(property "Value" "4.7K"
+			(at 165.862 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8695,8 +8568,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
-			(at 148.844 68.58 0)
+		(property "Value" "4.7K"
+			(at 148.082 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,73 +9391,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LM2676S-3.3_NOPB:PWR_FLAG")
-		(at 175.26 83.82 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5fb2db21-817f-4742-bb3a-65fbc6b07431")
-		(property "Reference" "#FLG02"
-			(at 177.165 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 179.07 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 175.26 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c3a66ab4-baf7-4f59-9844-ea122c85477e")
-		)
-		(instances
-			(project "EggClassifier"
-				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/fdbe9d4c-6ebe-4e90-8f03-e4455b1d326a"
-					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EggClassifier:C")
 		(at 177.8 30.48 0)
 		(unit 1)
@@ -10154,7 +9960,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "4.7K"
 			(at 59.69 45.212 90)
 			(effects
 				(font

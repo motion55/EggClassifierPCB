@@ -4764,6 +4764,12 @@
 		(uuid "0b17b345-a651-4545-af60-bf79a01a840d")
 	)
 	(junction
+		(at 146.05 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d940256-bcfe-438d-ab7e-6881856e490d")
+	)
+	(junction
 		(at 109.22 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5903,6 +5909,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 124.46) (xy 147.32 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79b4a13c-5098-4453-ad68-4f2cdb009863")
+	)
+	(wire
+		(pts
 			(xy 67.31 59.69) (xy 58.42 59.69)
 		)
 		(stroke
@@ -6410,6 +6426,16 @@
 			(type default)
 		)
 		(uuid "a1befd22-d883-4a15-a8ea-db6956847259")
+	)
+	(wire
+		(pts
+			(xy 146.05 123.19) (xy 146.05 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a20cd3a7-7b38-4c5c-9014-a5c1ff5895d2")
 	)
 	(wire
 		(pts
@@ -8908,7 +8934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "170679a6-f608-4791-b129-3c5bc466051a")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG0101"
 			(at 173.99 159.385 0)
 			(effects
 				(font
@@ -8958,7 +8984,7 @@
 		(instances
 			(project ""
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
-					(reference "#FLG01")
+					(reference "#FLG0101")
 					(unit 1)
 				)
 			)
@@ -9712,7 +9738,7 @@
 	)
 	(symbol
 		(lib_id "LM2676S-3.3_NOPB:+5V")
-		(at 146.05 124.46 0)
+		(at 146.05 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9721,7 +9747,7 @@
 		(fields_autoplaced yes)
 		(uuid "38f52bd5-692d-4cb3-bc5c-8c2d48660786")
 		(property "Reference" "#PWR039"
-			(at 146.05 128.27 0)
+			(at 146.05 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9730,7 +9756,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 146.05 119.38 0)
+			(at 146.05 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9738,7 +9764,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9747,7 +9773,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9756,7 +9782,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 146.05 124.46 0)
+			(at 146.05 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13341,6 +13367,73 @@
 			(project "Main_H743VI"
 				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
 					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2676S-3.3_NOPB:PWR_FLAG")
+		(at 147.32 124.46 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae63fd01-4317-4268-90c8-fccb5fe3a8c7")
+		(property "Reference" "#FLG01"
+			(at 149.225 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 151.13 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 147.32 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ab510e8-283c-44a1-a79a-1444beb52c48")
+		)
+		(instances
+			(project ""
+				(path "/1c72d2eb-7fb1-49fe-a026-e817f5a7ec43/16aff487-3924-4be3-b176-d1fab0e3868e"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
