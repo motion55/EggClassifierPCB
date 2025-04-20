@@ -6594,7 +6594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x22_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_2x22_P2.54mm_Vertical"
 			(at 63.5 125.73 0)
 			(effects
 				(font
@@ -7247,7 +7247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x24_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_2x24_P2.54mm_Vertical"
 			(at 161.29 54.61 0)
 			(effects
 				(font
@@ -7854,7 +7854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x24_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_2x24_P2.54mm_Vertical"
 			(at 63.5 54.61 0)
 			(effects
 				(font
@@ -8060,7 +8060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x22_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_2x22_P2.54mm_Vertical"
 			(at 161.29 127 0)
 			(effects
 				(font
