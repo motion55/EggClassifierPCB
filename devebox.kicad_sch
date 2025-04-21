@@ -7630,7 +7630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 167.64 95.25 0)
 			(effects
 				(font
@@ -7699,7 +7699,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 252.73 81.5848 0)
 			(effects
 				(font
@@ -7768,7 +7768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 73.3552 158.75 0)
 			(effects
 				(font
@@ -7968,7 +7968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 153.67 77.47 0)
 			(effects
 				(font
@@ -8037,7 +8037,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 26.67 44.1452 0)
 			(effects
 				(font
@@ -8172,7 +8172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -8239,7 +8239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 63.5 53.34 0)
 			(effects
 				(font
@@ -8373,7 +8373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 199.0852 34.29 0)
 			(effects
 				(font
@@ -8442,7 +8442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 52.07 39.0652 0)
 			(effects
 				(font
@@ -8577,7 +8577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 153.67 67.31 0)
 			(effects
 				(font
@@ -8647,7 +8647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
+		(property "Footprint" "EggClassifier:LQFP-100_14x14mm_P0.5mm"
 			(at 80.01 167.64 0)
 			(effects
 				(font
@@ -9011,7 +9011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 188.9252 34.29 0)
 			(effects
 				(font
@@ -9078,7 +9078,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering"
+		(property "Footprint" "EggClassifier:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering"
 			(at 41.91 62.23 0)
 			(effects
 				(font
@@ -9151,7 +9151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -9417,7 +9417,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 178.7652 34.29 0)
 			(effects
 				(font
@@ -9550,7 +9550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "EggClassifier:SW_PUSH_6mm_H4.3mm"
 			(at 55.88 39.37 0)
 			(effects
 				(font
@@ -9630,7 +9630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_1x04_P2.54mm_Vertical"
 			(at 180.34 95.25 0)
 			(effects
 				(font
@@ -9901,7 +9901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 67.0052 158.75 0)
 			(effects
 				(font
@@ -9968,7 +9968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 59.69 43.18 0)
 			(effects
 				(font
@@ -10103,7 +10103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+		(property "Footprint" "EggClassifier:PinHeader_1x05_P2.54mm_Vertical"
 			(at 171.45 68.58 0)
 			(effects
 				(font
@@ -10181,7 +10181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 204.1652 34.29 0)
 			(effects
 				(font
@@ -10314,7 +10314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
+		(property "Footprint" "EggClassifier:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
 			(at 228.6 101.6 0)
 			(effects
 				(font
@@ -10634,7 +10634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 171.45 134.62 0)
 			(effects
 				(font
@@ -10777,7 +10777,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 72.39 31.75 0)
 			(effects
 				(font
@@ -10846,7 +10846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "EggClassifier:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 173.99 88.9 0)
 			(effects
 				(font
@@ -11112,7 +11112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 183.8452 34.29 0)
 			(effects
 				(font
@@ -11377,7 +11377,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "EggClassifier:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 194.0052 34.29 0)
 			(effects
 				(font
