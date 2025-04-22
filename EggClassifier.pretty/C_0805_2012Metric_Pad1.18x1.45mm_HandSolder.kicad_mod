@@ -2,14 +2,13 @@
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
-	(locked yes)
 	(layer "F.Cu")
 	(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 	(tags "capacitor handsolder")
 	(property "Reference" "REF**"
-		(at 0 -1.68 0)
+		(at 3.4798 0.0254 0)
 		(layer "F.SilkS")
-		(uuid "8449761d-14cd-42b5-a980-c896e37a14b9")
+		(uuid "74563ffd-acfa-4ba3-a0a8-05c8a9bbf9d6")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +19,7 @@
 	(property "Value" "104"
 		(at 0 1.68 0)
 		(layer "F.Fab")
-		(uuid "964cc40c-ad20-45db-96fa-acf0ee8fcb9e")
+		(uuid "d4788cba-e437-497d-b4c9-13046870da82")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "82cf52d9-8072-4cb2-ba8d-928f6c6c2426")
+		(uuid "4c96101d-c4d6-450e-b94b-12a86217260d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2966bbf5-88c6-4f43-8e4d-372c4a6572ee")
+		(uuid "24b986d6-92b5-497e-b2ac-e6e706bc3e97")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -63,7 +62,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "2dbee789-c0cf-4390-a748-bb7f5796821d")
+		(uuid "cc42f535-293c-4070-93fb-dc1c6dfed16b")
 	)
 	(fp_line
 		(start -0.261252 0.735)
@@ -73,7 +72,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b09f17dd-eeb2-48c3-a2ae-5f7883d6ba68")
+		(uuid "dc558464-9f74-41db-9b8e-f4cec1a144d1")
 	)
 	(fp_line
 		(start -1.88 -0.98)
@@ -83,7 +82,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "1efccdd8-2bc2-4392-a097-93a33689f8b5")
+		(uuid "5f0b9633-ad56-4291-a250-767162a7e8c9")
 	)
 	(fp_line
 		(start -1.88 0.98)
@@ -93,7 +92,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "6a8b6a8f-78c0-443f-9159-77fe233f68d0")
+		(uuid "cc6098d7-670c-4e2b-8bac-dcc7fe892d00")
 	)
 	(fp_line
 		(start 1.88 -0.98)
@@ -103,7 +102,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "68def877-0677-4940-aa6b-01fc1270bfe4")
+		(uuid "84ffb029-4bd1-4ed9-9245-54bb215586cf")
 	)
 	(fp_line
 		(start 1.88 0.98)
@@ -113,7 +112,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "f7309cf3-f8d0-488a-92ef-65317a664143")
+		(uuid "904c2afd-9128-455a-b255-38ec67bdac86")
 	)
 	(fp_line
 		(start -1 -0.625)
@@ -123,7 +122,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f1b49107-90a9-4102-aedb-4ec0a26ad36e")
+		(uuid "4aa5e777-6b3a-4431-ad8c-f4221e797294")
 	)
 	(fp_line
 		(start -1 0.625)
@@ -133,7 +132,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "97dd0bfb-a379-4e03-a7b1-80195fbfb558")
+		(uuid "9cfc6487-0739-4cd9-95f5-1f470658f69a")
 	)
 	(fp_line
 		(start 1 -0.625)
@@ -143,7 +142,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "9023079b-9a97-476a-ab83-53e2cce1837a")
+		(uuid "06eedc76-f729-4dcd-b690-bd1a7f9f25ff")
 	)
 	(fp_line
 		(start 1 0.625)
@@ -153,12 +152,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "1ece2780-5c59-468c-ab6b-4d5382a17b1f")
+		(uuid "54d93ea9-4d00-47e0-88e0-3e49027d79dd")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "9b9093e3-0a8d-4832-adde-388fbc000271")
+		(uuid "898d54a6-0ff8-45a7-9a09-c1cca311a342")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -171,14 +170,14 @@
 		(size 1.175 1.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.212766)
-		(uuid "1b11e274-f733-4d7f-bc7f-5bd79adb5847")
+		(uuid "44e85d5c-d544-40db-88fe-06f36da673a6")
 	)
 	(pad "2" smd roundrect
 		(at 1.0375 0)
 		(size 1.175 1.45)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.212766)
-		(uuid "b543e245-6c1e-4556-b079-574dbb5c3b4d")
+		(uuid "fed8a564-8b94-4ead-9fc3-fcc799189e95")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
