@@ -9,7 +9,7 @@
 	(property "Reference" "REF**"
 		(at -3.3428 0.0304 0)
 		(layer "F.SilkS")
-		(uuid "630b15c1-adff-48dd-af67-0c9b0fd80775")
+		(uuid "b3bb9b09-cc5d-4c7f-9c20-aee2f43ec2ea")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 	(property "Value" "LED"
 		(at 0 1.65 0)
 		(layer "F.Fab")
-		(uuid "38a545ec-e6e8-401e-ab48-ae440ed0cd55")
+		(uuid "b349b918-9499-4547-8b2c-149e9950d6d2")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c4bb0f84-efd6-488e-b549-f311dab99f1e")
+		(uuid "c865a223-08c5-427d-aee0-c8b83c10ec42")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a635ec2b-d878-4d76-ba57-4f33af8cd84f")
+		(uuid "29da5765-abd4-40c8-baea-ad68ffa77341")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -59,7 +59,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0fa3e673-cfe8-4aec-b045-d5710b372778")
+		(uuid "fe259eb5-9f76-4c56-ad9c-53158ce1cdec")
 		(effects
 			(font
 				(size 1 1)
@@ -76,7 +76,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "8e9b30f5-4b99-47c7-84c3-ec0bb1047e8e")
+		(uuid "25a3132d-522a-4355-963a-3faffac6e912")
 	)
 	(fp_line
 		(start -1.86 0.96)
@@ -86,7 +86,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "e3c78565-8d56-4f71-b555-d0d8b04315a1")
+		(uuid "f00481b2-641e-458d-8b6b-a18b03144baa")
 	)
 	(fp_line
 		(start 1 -0.96)
@@ -96,7 +96,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "fd754c87-36c4-4103-9882-d168670d1636")
+		(uuid "3b27e540-954c-4795-9a00-296d55592293")
 	)
 	(fp_line
 		(start -1.85 -0.95)
@@ -106,7 +106,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "9da7fa20-83f7-46e0-868c-6990739e2bdd")
+		(uuid "9f287e81-ed54-4364-9838-c667df61f0b4")
 	)
 	(fp_line
 		(start -1.85 0.95)
@@ -116,7 +116,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "c25b1780-622c-4dbc-b5cf-bf73e8e9701b")
+		(uuid "74669efd-930b-4b6e-a7ee-4240113452f8")
 	)
 	(fp_line
 		(start 1.85 -0.95)
@@ -126,7 +126,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "bc52ad36-444c-4cbd-9cb0-ee9f440d28f9")
+		(uuid "02c1cbeb-f2ea-4f5c-90fe-c558865d2e55")
 	)
 	(fp_line
 		(start 1.85 0.95)
@@ -136,7 +136,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "737f7635-0353-44f4-bd1a-4067cff9978f")
+		(uuid "185a4cd0-8ced-4025-8eb0-3aec40ac297f")
 	)
 	(fp_line
 		(start -1 -0.3)
@@ -146,7 +146,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "31c76ab2-4381-47a6-aea9-3a13eaaaf407")
+		(uuid "0b43f629-43f0-4a22-ad69-66dbcd2ac706")
 	)
 	(fp_line
 		(start -1 0.6)
@@ -156,7 +156,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "2ecab26b-aad8-4739-87b1-151539ae5fd4")
+		(uuid "712863ce-eba8-4bd8-9544-4bcd79277075")
 	)
 	(fp_line
 		(start -0.7 -0.6)
@@ -166,7 +166,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "84d51511-b9ea-4ab0-bc78-2237b189af64")
+		(uuid "2a327f72-9b22-4a1b-8f7a-bc43d37b0990")
 	)
 	(fp_line
 		(start 1 -0.6)
@@ -176,7 +176,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "160523f1-7aa3-4351-8be1-86e71b78c3ac")
+		(uuid "febcc023-3aed-4447-b859-ece8c19bc448")
 	)
 	(fp_line
 		(start 1 0.6)
@@ -186,12 +186,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "69ddaeba-11ed-450f-ab54-6d68ab86afee")
+		(uuid "4ba8ca35-a476-4c4d-b617-93464a18dca2")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "e0ddb547-7df9-47c4-9f27-41e809a53bd0")
+		(uuid "c1cd4bb8-076e-4e8a-a4f4-83eb9d43ad64")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -204,14 +204,14 @@
 		(size 1.15 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.217391)
-		(uuid "519ce56d-cdaa-45b1-9ff6-b000e180857b")
+		(uuid "69ff5b1d-d2be-4e9c-a2c4-daa9fb4e107e")
 	)
 	(pad "2" smd roundrect
 		(at 1.025 0)
 		(size 1.15 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.217391)
-		(uuid "c0eedef6-10e0-4b52-873a-de83e9c3ee79")
+		(uuid "7dde7af7-dfb8-4fbe-993a-1ac721488c49")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl"

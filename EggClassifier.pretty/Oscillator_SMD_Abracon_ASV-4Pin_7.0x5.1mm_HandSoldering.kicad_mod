@@ -7,9 +7,9 @@
 	(descr "Miniature Crystal Clock Oscillator Abracon ASV series, http://www.abracon.com/Oscillators/ASV.pdf, hand-soldering, 7.0x5.1mm^2 package")
 	(tags "SMD SMT crystal oscillator hand-soldering")
 	(property "Reference" "REF**"
-		(at 0 -5 0)
+		(at 0.0254 5.461 0)
 		(layer "F.SilkS")
-		(uuid "1f755593-154b-4c58-9328-a5d06e2a55e1")
+		(uuid "9400d03f-1176-436b-b9bb-3ac09bfec805")
 		(effects
 			(font
 				(size 1 1)
@@ -18,9 +18,9 @@
 		)
 	)
 	(property "Value" "25MHZ"
-		(at 0 5 0)
+		(at 0.0254 6.858 0)
 		(layer "F.Fab")
-		(uuid "951612ca-543b-4f8c-b328-f0b40b91329e")
+		(uuid "9fab4be6-aaf7-41d9-9d1a-e1b8dfa49780")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "094bec78-586e-471b-8d8a-662a6e8568f0")
+		(uuid "7d2988ee-e07e-423c-bfc8-ae8a41c91619")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "21115cf7-a3eb-4859-b6fe-078a97a504a0")
+		(uuid "56b7bb14-7621-47ef-9a04-11dd5856ef4a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -63,7 +63,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ddad9b0f-f2b6-4846-b680-2ee9d9fc5f80")
+		(uuid "9928bb93-b02b-4339-b351-298065a1c169")
 	)
 	(fp_line
 		(start -3.7 0.8)
@@ -73,7 +73,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0cfd91a7-0569-43d6-8ed6-538625474068")
+		(uuid "f55dbf36-1fb1-4604-8b09-f86eab1829dd")
 	)
 	(fp_line
 		(start 3.7 -0.8)
@@ -83,7 +83,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "1dd46b1f-18cd-44df-84ec-bcb37488810f")
+		(uuid "ef042ccc-6ae2-4118-a5db-a83d4ec89428")
 	)
 	(fp_circle
 		(center 0 0)
@@ -94,7 +94,7 @@
 		)
 		(fill no)
 		(layer "F.Adhes")
-		(uuid "1f49935a-d358-4e4e-953b-9d3dd6a32dd8")
+		(uuid "c874aedb-6948-4eeb-9c56-023c8827dc48")
 	)
 	(fp_circle
 		(center 0 0)
@@ -105,7 +105,7 @@
 		)
 		(fill no)
 		(layer "F.Adhes")
-		(uuid "ae4ddbb0-5e63-44db-8fde-58a4a35cc789")
+		(uuid "3e47274d-f296-4771-9379-acbeac0aa2db")
 	)
 	(fp_circle
 		(center 0 0)
@@ -116,7 +116,7 @@
 		)
 		(fill no)
 		(layer "F.Adhes")
-		(uuid "fafb8f0d-5400-4f34-902c-19a58a3ff676")
+		(uuid "9477421f-eb43-4cfb-b22b-6293619cf991")
 	)
 	(fp_circle
 		(center 0 0)
@@ -127,7 +127,7 @@
 		)
 		(fill no)
 		(layer "F.Adhes")
-		(uuid "f02d0625-f158-43bf-8b04-fd05a6446e89")
+		(uuid "b83afd8f-73c6-4166-98e8-8ea90139c474")
 	)
 	(fp_line
 		(start -3.9 -4.3)
@@ -137,7 +137,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "faa67c7b-9a8f-426a-b895-9d904e947dde")
+		(uuid "927b964a-f5ea-4adc-9b71-a64ed5714565")
 	)
 	(fp_line
 		(start -3.9 4.3)
@@ -147,7 +147,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ab10eb6b-b9c1-4a60-ae8f-2bc63ab402c2")
+		(uuid "d015545f-3af0-4755-a5d6-12a41d3dd595")
 	)
 	(fp_line
 		(start 3.9 -4.3)
@@ -157,7 +157,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "cfe8284c-408b-48e3-8b51-5375f8cf7d14")
+		(uuid "f625c215-a5e6-45bf-8cf8-e600aa7f4d57")
 	)
 	(fp_line
 		(start 3.9 4.3)
@@ -167,7 +167,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "40e38143-c6ae-461e-af1f-dc5b6129778c")
+		(uuid "e93b6774-b9c3-4a31-82e1-1c817d45b9cf")
 	)
 	(fp_line
 		(start -3.5 -2.44)
@@ -177,7 +177,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "29a27a41-4fb0-415d-a610-94c824b4ece1")
+		(uuid "c4fc25c7-6944-4b56-8937-c4155e6d3931")
 	)
 	(fp_line
 		(start -3.5 1.54)
@@ -187,7 +187,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "ad5cc7a0-8c4c-49ea-83bc-27a425965759")
+		(uuid "399008fa-78c1-488c-af34-915f8ec38f84")
 	)
 	(fp_line
 		(start -3.5 2.44)
@@ -197,7 +197,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "8129ab0a-9204-4c66-a8c6-be148b5fe3cc")
+		(uuid "09fbe1fe-a3a4-4399-93a5-9330e5010516")
 	)
 	(fp_line
 		(start -3.4 -2.54)
@@ -207,7 +207,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "ebc54db6-9332-438a-8bd0-2f92f9ff48ea")
+		(uuid "a808c6ad-8f8c-41bf-af38-61d69eafaa93")
 	)
 	(fp_line
 		(start -3.4 2.54)
@@ -217,7 +217,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "165b265d-2248-4ea4-a516-0559b85ca5db")
+		(uuid "fb0673d8-e6fb-4d6c-8bf5-c6aed3a3b885")
 	)
 	(fp_line
 		(start 3.4 -2.54)
@@ -227,7 +227,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7d6cdd3d-15a4-4b4d-b121-42713e967e8c")
+		(uuid "9c458c7a-4d55-4c2a-830a-4380d8409baa")
 	)
 	(fp_line
 		(start 3.4 2.54)
@@ -237,7 +237,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "d98496b6-db4b-4628-ade7-da36c2a9959a")
+		(uuid "d6f33029-08fc-4f90-aa22-928b24ef1f79")
 	)
 	(fp_line
 		(start 3.5 -2.44)
@@ -247,7 +247,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7d12e743-c9b4-47bb-b454-54d42a824647")
+		(uuid "a0cf80ec-a1b8-44fc-9653-8f27849ba852")
 	)
 	(fp_line
 		(start 3.5 2.44)
@@ -257,12 +257,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "03b027cf-3045-4e95-8677-9687f40808b1")
+		(uuid "9050aeb2-387f-47d9-a593-40ce2eb0e9f0")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "507c83f6-8c02-4153-8afa-9f9911043c73")
+		(uuid "5cd789b9-1d1c-439a-9a50-98e9445f7d29")
 		(effects
 			(font
 				(size 1 1)
@@ -274,25 +274,25 @@
 		(at -2.63 2.5)
 		(size 1.98 3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "ec226dbf-27bd-4c70-86cd-8ededf3fcff8")
+		(uuid "8b01f0eb-6504-43c3-9a5d-843d950409c5")
 	)
 	(pad "2" smd rect
 		(at 2.63 2.5)
 		(size 1.98 3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "7c3c0a24-0e9a-42f0-bd1b-2232f0e6e0b6")
+		(uuid "e86ee968-06d9-4f3b-bca4-5a1f9a5addc0")
 	)
 	(pad "3" smd rect
 		(at 2.63 -2.5)
 		(size 1.98 3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "a68408d3-71e5-43e0-b43c-eb9caea86a85")
+		(uuid "6ff60c89-9d27-4d98-9018-165684554b16")
 	)
 	(pad "4" smd rect
 		(at -2.63 -2.5)
 		(size 1.98 3)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "0e561379-8dea-4c48-9e1b-3797c6c6ac8d")
+		(uuid "7a707f95-afb5-4a17-b20a-433058523222")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering.wrl"
