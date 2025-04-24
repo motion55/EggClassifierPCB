@@ -2,15 +2,14 @@
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
-	(locked yes)
 	(layer "F.Cu")
 	(descr "IND-SMD_L8.0-W8.0 footprint")
 	(tags "IND-SMD_L8.0-W8.0 footprint C2827415")
 	(property "Reference" "REF**"
-		(at 0 -6.02 180)
+		(at 0 -6.02 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "96c8eb8b-4202-4a37-91f8-16911fc87751")
+		(uuid "31aa6fe5-c463-49fe-9255-b27b66c10494")
 		(effects
 			(font
 				(size 1 1)
@@ -19,9 +18,9 @@
 		)
 	)
 	(property "Value" "33UH"
-		(at 0.79 0 270)
+		(at 0.79 0 90)
 		(layer "F.Fab")
-		(uuid "067e17ca-9de7-464a-8abc-1002ffbbdd31")
+		(uuid "e689ec07-5025-4cd8-b5a1-64ee0cf8e202")
 		(effects
 			(font
 				(size 1 1)
@@ -30,10 +29,10 @@
 		)
 	)
 	(property "Datasheet" "CDRH104RNP-330NC"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "db42f57f-7abe-4bb8-b792-8d459c9beb41")
+		(uuid "39a5b285-f924-4cf6-b4b4-21f362a56e5a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,10 +41,10 @@
 		)
 	)
 	(property "Description" ""
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "18233a1a-4559-45fd-a872-7f357b5cc503")
+		(uuid "a4f88b69-955f-4f66-b2a5-33a25aec6f7c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -62,7 +61,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "21b6fdd7-f062-4a18-9360-b0ebecaa2f15")
+		(uuid "4fd1aa96-76e3-472e-9416-2f7c1ed70db8")
 	)
 	(fp_line
 		(start -4.08 4.02)
@@ -72,7 +71,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "a1cb2266-52d8-4e0a-b59b-362438e2c1c6")
+		(uuid "846862a6-57b3-4e8d-b0d4-637055acf69b")
 	)
 	(fp_line
 		(start -4 -4)
@@ -82,7 +81,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "c8d050df-7443-4013-9231-ef3b767c904b")
+		(uuid "af2f2bf2-4d79-414d-b701-726132968418")
 	)
 	(fp_line
 		(start -4 4)
@@ -92,7 +91,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "6e9a60fc-63e2-4f1a-9995-e539aae99538")
+		(uuid "b349c08c-f1ec-4228-9688-283b3fdd64d2")
 	)
 	(fp_line
 		(start 4 -4)
@@ -102,7 +101,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "987fe538-7c42-4f04-b210-3383b28689bf")
+		(uuid "25b5ef04-be36-4cb3-9ee7-ba82ca15fa4b")
 	)
 	(fp_line
 		(start 4 4)
@@ -112,59 +111,59 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "a3b9d76e-5f91-48c4-bf46-a316eef66fc2")
+		(uuid "11bc1d35-e5d8-459c-9940-6ac2cc374f82")
+	)
+	(fp_text user "L1"
+		(at -0.734 0 90)
+		(layer "F.Fab")
+		(uuid "5b6c0fc6-b394-4508-8d46-889bea5056a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
 	)
 	(fp_text user "REF**"
 		(at 0 8.02 0)
 		(layer "F.Fab")
-		(uuid "9595944f-97cc-43b9-9099-d190d9eba646")
+		(uuid "ca7df4e4-e0c1-4ad3-b3ba-238663bcc9b7")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
 		)
-	)
-	(fp_text user "L1"
-		(at -0.734 0 270)
-		(layer "F.Fab")
-		(uuid "b30eab20-d785-4b75-9cc9-89a1334fa685")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(pad "1" thru_hole circle
-		(at 2 0)
-		(size 1.6 1.6)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "1a69b019-4e10-4eb2-8ad9-74caa1dbde27")
 	)
 	(pad "1" smd roundrect
 		(at 3.33 0)
 		(size 3.02 7.5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.08278145695)
-		(uuid "c74d0ae6-e3db-471d-96e7-950d306b8d43")
+		(uuid "8719928a-aa25-478e-a23d-de613306f943")
+	)
+	(pad "1" thru_hole circle
+		(at 5 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5064288a-878b-4d61-b4c3-41fddcc20bb9")
+	)
+	(pad "2" thru_hole circle
+		(at -5 0)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6e116c59-3dec-4f66-b16c-86eacc559da5")
 	)
 	(pad "2" smd roundrect
 		(at -3.33 0)
 		(size 3.02 7.5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.08278145695)
-		(uuid "2ace6fc7-65c1-4cbe-88c9-a5e7b6737fd5")
-	)
-	(pad "2" thru_hole circle
-		(at -2 0)
-		(size 1.6 1.6)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "2f7f9b7b-7154-48e9-b656-2b542231ba24")
+		(uuid "1d273019-85ca-468e-8edd-c45326b998ad")
 	)
 	(embedded_fonts no)
 	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_CDFER_JLCPCB-Kicad-Library/JLCPCB.3dshapes/IND-SMD_L8.0-W8.0.step"
