@@ -4850,6 +4850,10 @@
 		(uuid "009d04c1-b1f2-41a7-a6fc-3d50eaf095e9")
 	)
 	(no_connect
+		(at 74.93 68.58)
+		(uuid "0ab5297d-39b4-43ac-a156-57e5900ea3b5")
+	)
+	(no_connect
 		(at 74.93 127)
 		(uuid "116c497c-5b8a-4be6-91b5-862b79fb2865")
 	)
@@ -5416,16 +5420,6 @@
 			(type default)
 		)
 		(uuid "396d8349-23c7-44de-b320-b8f6a665b3d2")
-	)
-	(wire
-		(pts
-			(xy 60.96 68.58) (xy 74.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39d513d9-2efb-40e7-97a6-af365547dd63")
 	)
 	(wire
 		(pts
@@ -7325,28 +7319,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TFT_INT"
-		(shape passive)
-		(at 60.96 68.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8fd74190-ba27-4c93-9c7c-4728d3430dc7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.9692 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
