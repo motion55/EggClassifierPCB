@@ -9,7 +9,7 @@
 	(property "Reference" "REF**"
 		(at -3.3428 0.0304 180)
 		(layer "F.SilkS")
-		(uuid "863e819d-9d52-47f7-b59e-eff289cb3087")
+		(uuid "1d4e9bd1-4287-4c63-a281-96b23a851ac5")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +20,7 @@
 	(property "Value" "LED"
 		(at 0 1.65 180)
 		(layer "F.Fab")
-		(uuid "2919992e-41cf-41ad-bad7-e7032283555a")
+		(uuid "4d631fd7-e412-433e-968e-5fc382960d7e")
 		(effects
 			(font
 				(size 1 1)
@@ -33,7 +33,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "05c3e4f3-3efe-4947-b296-5b1461248d56")
+		(uuid "b21a149a-01cd-4ccc-a2f9-9cc008718b77")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46,7 +46,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "dd68a5eb-846c-440b-beeb-a9124ae7849b")
+		(uuid "cf1c5fa1-c3f4-4d87-8df5-563cec65bab8")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -59,7 +59,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c3bda7a8-91d5-499d-a5b5-d5e7e2274520")
+		(uuid "10f12e1e-a155-41d5-89f2-78f93e319c8a")
 		(effects
 			(font
 				(size 1 1)
@@ -76,7 +76,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "07ca2112-8079-40d9-a935-64ad9d11f675")
+		(uuid "1138ef84-2d1c-41ea-8eab-9dbeb71fa9a5")
 	)
 	(fp_line
 		(start -1.86 0.96)
@@ -86,7 +86,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "9f523736-374f-4e55-ac4a-31ef8d305c74")
+		(uuid "760b6d8b-1048-4437-af4e-17604ef8ef12")
 	)
 	(fp_line
 		(start 1 -0.96)
@@ -96,7 +96,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "dd6cfece-c352-4948-adfd-18fe3ca67be7")
+		(uuid "c3bf1694-b8c5-4481-8734-d467eed24acc")
 	)
 	(fp_line
 		(start -1.85 -0.95)
@@ -106,7 +106,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ce0537a8-ddbb-4432-906d-fb0c02c29d10")
+		(uuid "077ed558-d9ff-45d1-b3db-48e62e3e9596")
 	)
 	(fp_line
 		(start -1.85 0.95)
@@ -116,7 +116,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "69450f1a-dd0e-4572-ba6f-f8aa5f5ccffb")
+		(uuid "780021d4-81f3-441e-99dd-a9fc5721a4a2")
 	)
 	(fp_line
 		(start 1.85 -0.95)
@@ -126,7 +126,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "02152c64-3a9e-4d83-81ba-a0e41cab71d1")
+		(uuid "527b8af8-e7f8-408e-b88a-593a7c0569f1")
 	)
 	(fp_line
 		(start 1.85 0.95)
@@ -136,7 +136,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "b6d4a999-5e9a-4558-8d5c-aff349c92938")
+		(uuid "405835bd-95e4-4a59-b1a6-a1779f496308")
 	)
 	(fp_line
 		(start -1 -0.3)
@@ -146,7 +146,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "d2c24710-7c2c-4ca1-9084-83afe3b8b2dd")
+		(uuid "d57c676c-6a08-4786-a2a8-911c4b240002")
 	)
 	(fp_line
 		(start -1 0.6)
@@ -156,7 +156,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4c79b91c-acd2-4298-b451-76f787f00b2c")
+		(uuid "9b89ebc4-a62e-4f04-a767-f7fc8d478d50")
 	)
 	(fp_line
 		(start -0.7 -0.6)
@@ -166,7 +166,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "70632bd6-ee37-45a0-a182-49ef46b37be7")
+		(uuid "d42ee80a-5447-4dec-9be4-541646fc86ee")
 	)
 	(fp_line
 		(start 1 -0.6)
@@ -176,7 +176,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "1e8aff87-c65d-4f85-9413-52581dc4d01e")
+		(uuid "1eaecfad-39ea-4b60-956b-9076ceeda1f8")
 	)
 	(fp_line
 		(start 1 0.6)
@@ -186,12 +186,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "68a66079-c639-4b9b-afa3-4a00194529f3")
+		(uuid "7de83bfe-97ec-43e4-9901-0afa634564cb")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 180)
 		(layer "F.Fab")
-		(uuid "77508126-5356-48aa-af2b-9dc903400278")
+		(uuid "2efbbac7-7f38-4ef8-a800-a2916c236a33")
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -204,14 +204,14 @@
 		(size 1.15 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.217391)
-		(uuid "12467952-d404-448f-9837-674e72d09909")
+		(uuid "44be35cd-9d0d-424d-b911-6783325b72ac")
 	)
 	(pad "2" smd roundrect
 		(at 1.025 0)
 		(size 1.15 1.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.217391)
-		(uuid "309a3957-a71d-4220-9d2e-a3b5b0560744")
+		(uuid "a43109db-5e7e-4be5-be46-fd8a1f381686")
 	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl"
