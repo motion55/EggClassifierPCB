@@ -9306,7 +9306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EggClassifier:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm_HandSoldering"
+		(property "Footprint" "EggClassifier:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering"
 			(at 41.91 62.23 0)
 			(effects
 				(font

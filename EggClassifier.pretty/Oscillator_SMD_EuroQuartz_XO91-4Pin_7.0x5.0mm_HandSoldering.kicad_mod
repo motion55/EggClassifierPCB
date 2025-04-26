@@ -1,0 +1,278 @@
+(footprint "Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Miniature Crystal Clock Oscillator EuroQuartz XO91 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf, hand-soldering, 7.0x5.0mm^2 package")
+	(tags "SMD SMT crystal oscillator hand-soldering")
+	(property "Reference" "REF**"
+		(at 0 -4.1 0)
+		(layer "F.SilkS")
+		(uuid "892d1aee-ae5b-4671-b168-93cb3d940bca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "25MHZ"
+		(at 0 4.1 0)
+		(layer "F.Fab")
+		(uuid "163f1d4c-73bd-40a0-afdc-b192f472b81f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://abracon.com/Oscillators/ASCO.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21409d74-3745-4a9c-9894-ad35ccd307d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Crystal Clock Oscillator, Abracon ASCO"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "801a2148-777d-40dd-bee4-70e1059f7ad1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center 0 0)
+		(end 0.233333 0)
+		(stroke
+			(width 0.466667)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "4120073c-1f44-47e1-903f-bb675a6e517e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.533333 0)
+		(stroke
+			(width 0.333333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "c7327cd7-b4c7-41b4-b42a-b3554d4c7e47")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.833333 0)
+		(stroke
+			(width 0.333333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "19d9155c-074c-4b66-8baa-c09f75495095")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "0c362978-560a-4293-b2f5-b2dcc2ff2b0c")
+	)
+	(fp_line
+		(start -5.3 -3.4)
+		(end -5.3 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1a9bb60b-c3c6-4e43-b84b-a1e311ac285d")
+	)
+	(fp_line
+		(start -5.3 3.4)
+		(end 5.3 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9b527955-d2df-456c-ad88-f5bff00c7dd8")
+	)
+	(fp_line
+		(start 5.3 -3.4)
+		(end -5.3 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "843fe2b5-9e98-44b0-89ac-de37c4d6cac9")
+	)
+	(fp_line
+		(start 5.3 3.4)
+		(end 5.3 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5257f1b4-f2a8-4d85-bf65-d0404ed06d48")
+	)
+	(fp_line
+		(start -3.5 -2.4)
+		(end -3.4 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4aa192df-456a-4b26-aa00-67588ff35543")
+	)
+	(fp_line
+		(start -3.5 1.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6663dba0-a964-4e96-affe-5b6daf03f0de")
+	)
+	(fp_line
+		(start -3.5 2.4)
+		(end -3.5 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e38d8d7-0827-4d81-9604-d7b1a062de71")
+	)
+	(fp_line
+		(start -3.4 -2.5)
+		(end 3.4 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7918160-ae97-4cce-90bf-a21965641f32")
+	)
+	(fp_line
+		(start -3.4 2.5)
+		(end -3.5 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc69988a-eb4a-4dc1-af4c-c92304db57c1")
+	)
+	(fp_line
+		(start 3.4 -2.5)
+		(end 3.5 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2af1ce05-f771-4758-90d8-2920ee56d81b")
+	)
+	(fp_line
+		(start 3.4 2.5)
+		(end -3.4 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41b78202-fd67-4e94-8c72-9e068f354826")
+	)
+	(fp_line
+		(start 3.5 -2.4)
+		(end 3.5 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c58f76c-5aed-425d-9aa6-e1ddea22110f")
+	)
+	(fp_line
+		(start 3.5 2.4)
+		(end 3.4 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78c7f608-f206-4844-b9f9-de2ebb7db44d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9496c7d6-0d51-45fc-8734-a889ccc3af7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.25 2.1)
+		(size 3.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fd0b71c7-260c-41f9-a335-0dd8014a4078")
+	)
+	(pad "2" smd rect
+		(at 3.25 2.1)
+		(size 3.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3de1ad92-6a38-4509-aa74-bb4a036d6578")
+	)
+	(pad "3" smd rect
+		(at 3.25 -2.1)
+		(size 3.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a92a2850-39c9-49f6-85a3-02c75e759f81")
+	)
+	(pad "4" smd rect
+		(at -3.25 -2.1)
+		(size 3.5 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "48a8e77d-8ea0-4ec3-a610-eb998b056014")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm_HandSoldering.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
