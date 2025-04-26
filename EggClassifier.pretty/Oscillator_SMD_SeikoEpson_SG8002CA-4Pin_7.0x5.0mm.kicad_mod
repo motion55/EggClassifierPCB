@@ -1,0 +1,338 @@
+(footprint "Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD Crystal Oscillator Seiko Epson SG-8002CA https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC, 7.0x5.0mm^2 package")
+	(tags "SMD SMT crystal oscillator")
+	(property "Reference" "REF**"
+		(at 0 -4.1 0)
+		(layer "F.SilkS")
+		(uuid "c7ffabba-235e-4ea4-a789-543ac93535c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "25MHZ"
+		(at 0 4.1 0)
+		(layer "F.Fab")
+		(uuid "eda13d22-4f9e-4ce0-85ee-30ca83e6d326")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&lang=en"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd876e39-02d1-4af4-a517-d76376ee72e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "CMOS Clock Oscillator 1 to 75 MHz"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a599d471-5dab-4619-939b-8dabda492989")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.7 -2.7)
+		(end -3.64 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc61f97c-6fbf-48d2-8a26-602817c0f8c1")
+	)
+	(fp_line
+		(start -3.7 2.7)
+		(end -3.7 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b09c99ee-555b-478c-9054-baae02f8612b")
+	)
+	(fp_line
+		(start -3.64 2.7)
+		(end -3.7 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27fd5ccd-5f09-4dcf-b027-1cd9af866016")
+	)
+	(fp_line
+		(start -3.64 3.3)
+		(end -3.64 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "60eb535a-11d8-4479-a376-6f53879a3b15")
+	)
+	(fp_line
+		(start -1.44 -2.7)
+		(end 1.44 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6cee55fe-d316-4681-bdd8-8605c9c7a320")
+	)
+	(fp_line
+		(start -1.44 2.7)
+		(end -1.44 3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40cc8096-9438-4095-995f-86f2b366dc16")
+	)
+	(fp_line
+		(start 1.44 2.7)
+		(end -1.44 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4076f432-92dc-47f5-b78b-8e3b4e0d0048")
+	)
+	(fp_line
+		(start 3.64 -2.7)
+		(end 3.7 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "379cc2d6-26cd-4864-99f1-a4e461127a33")
+	)
+	(fp_line
+		(start 3.7 -2.7)
+		(end 3.7 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5da73e89-a56b-4c95-a8ea-2aae6a15bafc")
+	)
+	(fp_line
+		(start 3.7 2.7)
+		(end 3.64 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "787af301-fdde-4e82-a2c2-81c8e72a6b6a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.233333 0)
+		(stroke
+			(width 0.466667)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "19c90105-3bb4-49b0-b019-fc9f60775409")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.533333 0)
+		(stroke
+			(width 0.333333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "4ef20d2e-d585-4644-af24-29c986c4c2f7")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.833333 0)
+		(stroke
+			(width 0.333333)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "1ea0c086-a8fd-4699-a998-4bbbd33261e8")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Adhes")
+		(uuid "80f639e1-9a0d-4c4d-8b3d-4bc1527734f9")
+	)
+	(fp_line
+		(start -3.8 -3.4)
+		(end -3.8 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0e26abed-3e90-4169-a182-85bb36de8434")
+	)
+	(fp_line
+		(start -3.8 3.4)
+		(end 3.8 3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "101518f5-06bd-4969-a3b5-ed3cb220cc2d")
+	)
+	(fp_line
+		(start 3.8 -3.4)
+		(end -3.8 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1c604751-7982-41d8-9a5d-428cd872b8b2")
+	)
+	(fp_line
+		(start 3.8 3.4)
+		(end 3.8 -3.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bd9f9ab5-52ab-4b95-9117-1755e193dfbb")
+	)
+	(fp_line
+		(start -3.5 -2.5)
+		(end -3.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "257601a1-00f8-4bf2-8be6-0933d9388f02")
+	)
+	(fp_line
+		(start -3.5 1.5)
+		(end -2.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed9dd4d4-d58e-4b3b-892f-759e9d8bdc27")
+	)
+	(fp_line
+		(start -3.5 2.5)
+		(end 3.5 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2830ecfc-8e57-43bd-a229-0cc90c81ac87")
+	)
+	(fp_line
+		(start 3.5 -2.5)
+		(end -3.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1e5fd17d-cfce-41c9-ac5c-8b6d59345022")
+	)
+	(fp_line
+		(start 3.5 2.5)
+		(end 3.5 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a32dc5c8-c6c7-4abc-957c-cdae21842bde")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "31032024-b85f-432d-8543-15b8e967a5f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.54 2.1)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0f6c75d6-1028-4b05-97be-4f104321fcbb")
+	)
+	(pad "2" smd rect
+		(at 2.54 2.1)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "94496a8b-5b8f-485d-9fd3-031bb8898da8")
+	)
+	(pad "3" smd rect
+		(at 2.54 -2.1)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cda93ce1-d77f-47af-aabe-39d567e16867")
+	)
+	(pad "4" smd rect
+		(at -2.54 -2.1)
+		(size 1.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "29237778-f425-4473-8ead-46284806e646")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
